@@ -26,14 +26,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 </a><br>
 
 
-#### Deploy in your VPS
-````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
-cd File-Sharing-Bot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 main.py
-````
 
 ### Admin Commands
 
