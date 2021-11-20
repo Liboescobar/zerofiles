@@ -14,7 +14,7 @@
 
 ### Admin Commands
 
-
+```console
 /start - start the bot or get posts
 
 /batch - create link for more than one posts
@@ -24,7 +24,7 @@
 /users - view bot statistics
 
 /broadcast - broadcast any messages to bot users
-
+```
 
 ##
 
