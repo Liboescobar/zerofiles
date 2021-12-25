@@ -5,7 +5,7 @@
 
 ## Telegram Bot to store Posts and Documents and it can Access by Special Links.
 
-[Crow](t.me/deadcrow)
+[Zero](t.me/fuckinzero13)
 [Channel](t.me/xproject13)
 
 ## Click The Image And Deploy Your Bot
