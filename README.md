@@ -10,7 +10,7 @@
 
 ## Click The Image And Deploy Your Bot
 
-[![Deploy](https://telegra.ph/file/8df319c48529c36e7785c.png)](https://heroku.com/deploy?template=https://github.com/zerosquad13/zerofiles.git)
+[![Deploy](https://telegra.ph/file/8df319c48529c36e7785c.png)](https://heroku.com/deploy?template=https://github.com/liboescobar/libofiles.git)
 
 ### Admin Commands
 
